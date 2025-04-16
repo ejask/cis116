@@ -1,5 +1,5 @@
 """
-File Name: jaskowiec_emma_sticks.py
+File Name: hw03.py
 Author: Emma Jaskowiec
 Section: E
 Description: Implements the game Pictsie Sticks; each turn, a player takes 1-3 sticks from the board (though they cannot take more sticks than are present). After the player's turn, there is a chance that 1-4 sticks will be magically added back to the board. If the player takes the last stick (and none are added back), they lose.

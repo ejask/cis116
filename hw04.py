@@ -1,7 +1,7 @@
 """
-File name: hw4_emma_jaskowiec.py
+File name: hw04.py
 Author: Emma Jaskowiec
-Section: K
+Section: E
 Description: Takes, as user input, a number of students, a number of assignments, and each student's scores on each assignment. Prints a grade report including each student's grade and each assignment's average score (both in percentage and letter format).
 """
 

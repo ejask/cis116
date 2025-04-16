@@ -1,5 +1,5 @@
 """
-File Name: hw1_emma_jaskowiec.py
+File Name: hw01.py
 Author: Emma Jaskowiec
 Section: E
 Description: This program calculates (from user input) the lump sum required to maintain a retirement income consistent with a pre-retirement income. It then calculates money generated from investments and determines if it is enough to maintain the retirement income.
